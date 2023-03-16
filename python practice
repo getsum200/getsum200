@@ -1,6 +1,0 @@
-x={'model':'mazda'}
-x['make']=3
-x['year']=2010
-x['rdl'] = False
-for key, value in x.items():
-    print(key, value)
