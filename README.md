@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @getsum200
-- 👀 I’m interested cybersecurities
-- 🌱 I’m currently learning python
+- 👀 I’m interested Data Analtics and Business Intelligence
+- 🌱 I’m currently learning SQL
